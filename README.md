@@ -11,12 +11,12 @@
 ---
 ### Connect with Me
 <a href="https://www.linkedin.com/in/shivika-sharma-a9751822b/">
-  <img src="figures/linkedin-img.png" width="45" height="45">
+  <img src="figures/linkedin-img.png" width="40" height="40">
 </a>
 <a href="https://github.com/shivikasharmaaa">
-  <img src="figures/github-img.png" width="45" height="45">
+  <img src="figures/github-img.png" width="40" height="40">
 </a>
 <a href="mailto:shivikas.29may@gmail.com">
-  <img src="figures/gmail-img.png" width="45" height="45">
+  <img src="figures/gmail-img.png" width="40" height="40">
 </a>
 
